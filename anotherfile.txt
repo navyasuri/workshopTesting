@@ -1,3 +1,4 @@
 A new file that I will create ~ 
 
-Making some more changes within this line. Please give me conflicts. 
+Making some more changes within this line. Please give me conflicts. Now 
+we should have some conflict.

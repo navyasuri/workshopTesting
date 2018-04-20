@@ -1,3 +1,3 @@
 A new file that I will create ~ 
 
-Making some changes in the same line.
+Making some more changes within this line. Please give me conflicts. 
